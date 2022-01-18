@@ -1,11 +1,11 @@
-Name,Height,Width,Length
-Iphone 13,20,10,4
-Doll,40,20,10
-Barbie,30,7,3
-Oven,150,100,100
-Fridge,300,100,100
-Xbox Series X,40,60,20
-Apple,10,10,10
-Orange,8,8,8
-Hamburger,10,15,15
-Bottle of Water,25,10,10
+Name,Height,Width,Length,Type
+Iphone 13,20,10,4,Electronics
+Doll,40,20,10,Toys
+Barbie,30,7,3,Toys
+Oven,150,100,100,Household Appliances
+Fridge,300,100,100,Household Appliances
+Xbox Series X,40,60,20,Electronics
+Apple,10,10,10,Food
+Orange,8,8,8,Food
+Hamburger,10,15,15,Food
+Bottle of Water,25,10,10,Food
